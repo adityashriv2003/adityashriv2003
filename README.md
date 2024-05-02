@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack and Node.js**
+- 🌱 I’m currently learning **Express and Node.js**
 
-- 💬 Ask me about **ML Models , Django**
+- 💬 Ask me about **ML Models , Backend Development**
 
 - 📫 How to reach me **adityashrivastava2003@gmail.com**
 
